@@ -17,6 +17,9 @@ function App() {
           <Link className="link" to="/">
             Home
           </Link>
+          <Link className="link" to="/protected">
+            Friends
+          </Link>
         </nav>
       </div>
       <Switch>
